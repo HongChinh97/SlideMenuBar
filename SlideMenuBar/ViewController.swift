@@ -9,6 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
+//    func updateUI(text: String) {
+//        <#code#>
+//    }
+//
+//
     var isViewMove: Bool = false
     
     
